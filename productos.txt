@@ -1,0 +1,4 @@
+Sopa, 2.0, 3
+Milanesa de pollo, 30.0, 1
+Carne, 15.0, 2
+Caramelos, 5.0, 20
